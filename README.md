@@ -1,6 +1,6 @@
 ## HT_Cage_Assembly_Optimisation
 
-#Precursor Optimisation
+##Precursor Optimisation
 
 A mixture of tri-topic and di-topic aldehydes and amines were selected as imine cage precursors.
 Initially precursors were loaded in via their SMILES strings and a lowest energy conformer search is conducted using ETKDGv3. Kekulization of the aromatic bonds is also undertaken to ensure bond orders are correct for usage in stk as building blocks.
